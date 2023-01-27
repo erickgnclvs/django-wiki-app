@@ -50,6 +50,8 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
+# URL_CASE_INSENSITIVE = True
+
 ROOT_URLCONF = 'wiki.urls'
 
 TEMPLATES = [
